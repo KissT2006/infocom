@@ -4,8 +4,9 @@ szül. dátum : 2006.06.21.
 
 aluláteresztő RC szűrő kapcs.
 
-adatok :  R = 6
-          C = 21
+adatok : 
+$R = 6$
+$C = 21$
 ---   
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0a4949a-85b1-4669-9d9e-6a9786c3618a" />
@@ -31,6 +32,8 @@ adatok :  R = 6
 
 
 ---
+
+
 
 <img width="747" height="457" alt="Képernyőkép 2025-10-06 122432" src="https://github.com/user-attachments/assets/45c3bb88-42f0-4f9f-9c2a-398b608af32f" />
 
