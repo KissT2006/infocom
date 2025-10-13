@@ -43,3 +43,23 @@ grafikon :
 
 felüláteresztő RC szűrő kapcs.
 
+az adatok nem valtoztak ! 
+
+kötés
+
+<img width="732" height="558" alt="Képernyőkép 2025-10-13 114713" src="https://github.com/user-attachments/assets/2300cc28-e670-4fd0-a94e-8666c01f511a" />
+
+
+tblázat : 
+
+|freki[Hz]||Uki [V]|
+|----------|-------|
+|100|0,079|
+|250|0,194|
+|500|0,368|
+|1000|0,621|
+|1263|0,749|
+|1500|0,765|
+|2500|0,893|
+|3500|0,941|
+|5000|0,97|
