@@ -39,3 +39,7 @@ grafikon :
 
 <img width="747" height="457" alt="Képernyőkép 2025-10-06 122432" src="https://github.com/user-attachments/assets/45c3bb88-42f0-4f9f-9c2a-398b608af32f" />
 
+---
+
+felüláteresztő RC szűrő kapcs.
+
