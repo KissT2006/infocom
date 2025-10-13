@@ -63,3 +63,9 @@ táblázat :
 |2500|0,893        |
 |3500|0,941        |
 |5000|0,97         |
+
+
+grafikon : 
+
+
+<img width="746" height="457" alt="Képernyőkép 2025-10-13 115808" src="https://github.com/user-attachments/assets/4eaef2ee-9cc2-4cee-bdbc-6e04a7b6f0d1" />
