@@ -5,8 +5,8 @@ szül. dátum : 2006.06.21.
 aluláteresztő RC szűrő kapcs.
 
 adatok : 
-$R = 6$
-$C = 21$
+$R = 6ohm$
+$C = 21uF$
 ---   
 kötés : 
 
