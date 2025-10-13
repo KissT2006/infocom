@@ -50,7 +50,7 @@ kötés
 <img width="732" height="558" alt="Képernyőkép 2025-10-13 114713" src="https://github.com/user-attachments/assets/2300cc28-e670-4fd0-a94e-8666c01f511a" />
 
 
-tblázat : 
+táblázat : 
 
 |freki[Hz]||Uki [V]|
 |----------|-------|
