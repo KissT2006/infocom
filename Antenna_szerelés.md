@@ -49,28 +49,15 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
   <img width="881" height="356" alt="image" src="https://github.com/user-attachments/assets/2b4d3b97-7c0f-4b3b-8710-d61b72bab407" />
 </details>
 
-<details>   
-  <summary> A CH41 -es csatornán mért jelerősség, jel/zaj viszony, és bithibák </summary>
-  <img [its_snapshot_0061.bmp](https://github.com/user-attachments/files/24031227/its_snapshot_0061.bmp)
->
-</details>
+[its_snapshot_0062.bmp](https://github.com/user-attachments/files/24031428/its_snapshot_0062.bmp)
 
-<details>   
-  <summary> A CH41 -es csatorna konstellációs diagramja </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0004.bmp" alt="CONSTELLATION" />
-</details>
+[its_snapshot_0063.bmp](https://github.com/user-attachments/files/24031429/its_snapshot_0063.bmp)
 
-<details>   
-  <summary> A CH41 -es csatornán a DUNATV HD jelszint és TV adás </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0003.bmp" alt="DUNATV" />
-</details>
+[its_snapshot_0064.bmp](https://github.com/user-attachments/files/24031431/its_snapshot_0064.bmp)
 
-<details>   
-  <summary> A CH41 -es csatornán a DUNATV HD műsora </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0005.bmp" alt="DUNATV" />
-</details>
+[its_snapshot_0065.bmp](https://github.com/user-attachments/files/24031432/its_snapshot_0065.bmp)
 
-<br>
+[its_snapshot_0066.bmp](https://github.com/user-attachments/files/24031437/its_snapshot_0066.bmp)
 
 
 ### 4. **Mérési eredmények**
