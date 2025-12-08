@@ -43,6 +43,21 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 | Noise Margin         | 12.0 |
 | Hiba nélkül vett adás időtartama | 200 sec |   
 
+[its_snapshot_0061.bmp](https://github.com/user-attachments/files/24031008/its_snapshot_0061.bmp)
+
+[its_snapshot_0062.bmp](https://github.com/user-attachments/files/24031011/its_snapshot_0062.bmp)
+
+[its_snapshot_0063.bmp](https://github.com/user-attachments/files/24031022/its_snapshot_0063.bmp)
+
+[its_snapshot_0064.bmp](https://github.com/user-attachments/files/24031025/its_snapshot_0064.bmp)
+
+[its_snapshot_0065.bmp](https://github.com/user-attachments/files/24031027/its_snapshot_0065.bmp)
+
+[its_snapshot_0066.bmp](https://github.com/user-attachments/files/24031036/its_snapshot_0066.bmp)
+
+<img width="881" height="356" alt="image" src="https://github.com/user-attachments/assets/2b4d3b97-7c0f-4b3b-8710-d61b72bab407" />
+
+
 
 <details>   
   <summary> A Miskolci TV adótorony által sugárzott frekvenciák </summary>
